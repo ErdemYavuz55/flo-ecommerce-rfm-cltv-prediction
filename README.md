@@ -34,8 +34,10 @@ The primary objectives are to automatically segment customers, predict potential
 - **Regression (CLTV):** `RandomForestRegressor` to predict the exact monetary value a customer will bring over a 24-month lifespan.
   - *Metrics:* 0.99 R² Score | 1143 RMSE.
 
+
 ### 4. Business Intelligence (Power BI)
-![Power BI Dashboard](Flo Project Dashboard.png)
+<img width="1314" height="736" alt="Flo Project Dashboard" src="https://github.com/user-attachments/assets/18cd5fb1-82b0-4791-93d2-091d6b4986f2" />
+
 - Consolidated all model predictions and segmentation labels into a clean `.csv` dataset.
 - Created interactive dashboards to inform data-driven marketing campaigns.
 
