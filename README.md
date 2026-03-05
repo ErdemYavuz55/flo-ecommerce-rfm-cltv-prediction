@@ -35,6 +35,7 @@ The primary objectives are to automatically segment customers, predict potential
   - *Metrics:* 0.99 R² Score | 1143 RMSE.
 
 ### 4. Business Intelligence (Power BI)
+![Power BI Dashboard](Flo Project Dashboard.png)
 - Consolidated all model predictions and segmentation labels into a clean `.csv` dataset.
 - Created interactive dashboards to inform data-driven marketing campaigns.
 
